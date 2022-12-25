@@ -1,0 +1,7 @@
+- What is in the third element for a point? And for a vector?
+	- For a vector: it's 0
+	- For a point: it's 1
+- Refer to the book: how to find a line from two points using homogenious coordinates and linear algebra?
+	- Refer to analytic geometry: why is the line equation is as follows: $Ax+By+C=0$? 
+	- From the equation above you understand, that in order for point to be located on a line, it should satisfy: $l^Tp=0$ which is equivalent to $Ax_0+By_0+C=0$, when you represent $p$ in the homogenious coordinates.  
+- [ ] Please think about the geometric interpretation of the requirement the $l^Tp=0$ like all the p vectors should be perpendicular to l?

@@ -1,0 +1,7 @@
+- Item 13: List members in an initialization list in the order in which they are declared;
+	- This requirement actually has a reason: remember that destructors always destroy objects in the order of their construction -> the compiler would have to keep track of the order of members initialization which is a lot of overhead. 
+- Item 14: Make sure base classes have virtual destructors
+	- Don't forget to create an empty body for pure virtual destructors, since during the inherited object destruction, the compiler will call anyway the destructor of an abstract base and if it's not defined, the linker will complain 
+	- And to avoid the overhead of calling an empty function, you can define a pure virtual destructor to be inline.
+	- So, here's the question: where are the functions of the class stored in memory?
+- Item 15: Continue reading from here.
