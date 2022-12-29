@@ -1,0 +1,1 @@
+Rotation matrix derivation is convinient to show in polar coordinates (you should also remember the cos and sin of sum)

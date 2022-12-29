@@ -1,1 +1,4 @@
 - Remember the Gram matrix $A^T A$ ? Find out more information about it. 
+- Learn more about the local appearance of the SIFT detector (how do you describe and then match features? what is used for description?)
+- Learn more about RANSAC p. 117
+- Can you derive a simple fact: when we rotate the object in 2d, how do their coordinates chagne? 

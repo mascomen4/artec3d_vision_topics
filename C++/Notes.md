@@ -1,0 +1,1 @@
+- Template parameters do not participate in template argument deduction if they are explicitly specified: `f<double>(i,d);`. Can you give an example where the implicit conversion will needed, and it will fail since implicit conversions are not allowed during template argument dediction? 

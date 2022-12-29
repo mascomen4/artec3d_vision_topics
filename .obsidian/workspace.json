@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2037de10a98f40c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D surface reconstruction, registration, fusion, texturing and post-processing/A Word on Change of Basis..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e60314262f52def",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D surface reconstruction, registration, fusion, texturing and post-processing/Fundamental matrix F.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3e33606546083e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D Vision Topics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "103872fe9f17a847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3D surface reconstruction, registration, fusion, texturing and post-processing/Fundamental matrix F.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +25,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear algebra/Linear algebra.md",
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "882e9f3da0bc28b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3D surface reconstruction, registration, fusion, texturing and post-processing/Homography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99244553e516789c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af04a929fe5b48a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03b459f427b48379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous/Constructing a rotation matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear algebra/Linear algebra.md",
+                "file": "Miscellaneous/Constructing a rotation matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear algebra/Linear algebra.md",
+                "file": "Miscellaneous/Constructing a rotation matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear algebra/Linear algebra.md"
+                "file": "Miscellaneous/Constructing a rotation matrix.md"
               }
             }
           }
@@ -219,17 +231,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2613f5365840f349",
+  "active": "03b459f427b48379",
   "lastOpenFiles": [
+    "Notes.md",
+    "C++/Notes.md",
+    "3D surface reconstruction, registration, fusion, texturing and post-processing/Fundamentals of projective geometry.md",
+    "3D surface reconstruction, registration, fusion, texturing and post-processing/Homography.md",
+    "Linear algebra/Linear algebra.md",
     "3D surface reconstruction, registration, fusion, texturing and post-processing/Fundamental matrix F.md",
     "3D surface reconstruction, registration, fusion, texturing and post-processing/Epipolar Geometry - geometry of stereo vision.md",
-    "Notes.md",
     "3D surface reconstruction, registration, fusion, texturing and post-processing/Symmetric and skew-symmetric matrices.md",
     "3D surface reconstruction, registration, fusion, texturing and post-processing/Jacobi's method.md",
-    "3D surface reconstruction, registration, fusion, texturing and post-processing/3D surface reconstruction.md",
-    "3D surface reconstruction, registration, fusion, texturing and post-processing/3D surface reconstruction, registration (tracking), fusion, texturing, and post-processing.md",
-    "3D surface reconstruction, registration, fusion, texturing and post-processing/A Word on Change of Basis..md",
-    "3D surface reconstruction, registration, fusion, texturing and post-processing/Epipolar_geometry.png",
-    "3D surface reconstruction, registration, fusion, texturing and post-processing/Homogenious coordinates.md"
+    "3D surface reconstruction, registration, fusion, texturing and post-processing/3D surface reconstruction.md"
   ]
 }
