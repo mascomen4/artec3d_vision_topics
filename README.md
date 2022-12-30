@@ -6,8 +6,8 @@ These are my preparation notes on Linear Algebra, Computer Vision, Numerical Met
 
 If you want to read them, you need to open this repository as an [obsidian vault](https://obsidian.md/)
 
-References: 
-R. Hartley and A. Zisserman "Multiple View Geometry in Computer Vision" 
+### References: 
+R. Hartley and A. Zisserman "Multiple View Geometry in Computer Vision"  
 Saul Teukolsky, William H. Press, and William T. Vetterling "Numerical Recipes"
 
 ## Obsidian-related
