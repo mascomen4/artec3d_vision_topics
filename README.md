@@ -8,7 +8,7 @@ If you want to read them, you need to open this repository as an [obsidian vault
 
 ### References: 
 R. Hartley and A. Zisserman "Multiple View Geometry in Computer Vision"  
-Saul Teukolsky, William H. Press, and William T. Vetterling "Numerical Recipes"
+S. Teukolsky, W. H. Press, and W. T. Vetterling "Numerical Recipes"
 
 ## Obsidian-related
 
