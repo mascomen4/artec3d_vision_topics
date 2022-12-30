@@ -44,24 +44,12 @@
             }
           },
           {
-            "id": "99244553e516789c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "af04a929fe5b48a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "3D surface reconstruction, registration, fusion, texturing and post-processing/Jacobi's method.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +61,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/Constructing a rotation matrix.md",
+                "file": "Linear algebra/Linear algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a706254115156a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3D surface reconstruction, registration, fusion, texturing and post-processing/Jacobi's method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a6187693e9dd52a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scanner math model simulation, optimization and calibration/Single Camera calibration.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/Constructing a rotation matrix.md",
+                "file": "3D surface reconstruction, registration, fusion, texturing and post-processing/Jacobi's method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/Constructing a rotation matrix.md",
+                "file": "3D surface reconstruction, registration, fusion, texturing and post-processing/Jacobi's method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/Constructing a rotation matrix.md"
+                "file": "3D surface reconstruction, registration, fusion, texturing and post-processing/Jacobi's method.md"
               }
             }
           }
@@ -231,17 +243,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03b459f427b48379",
+  "active": "1a706254115156a7",
   "lastOpenFiles": [
-    "Notes.md",
-    "C++/Notes.md",
-    "3D surface reconstruction, registration, fusion, texturing and post-processing/Fundamentals of projective geometry.md",
-    "3D surface reconstruction, registration, fusion, texturing and post-processing/Homography.md",
-    "Linear algebra/Linear algebra.md",
-    "3D surface reconstruction, registration, fusion, texturing and post-processing/Fundamental matrix F.md",
-    "3D surface reconstruction, registration, fusion, texturing and post-processing/Epipolar Geometry - geometry of stereo vision.md",
     "3D surface reconstruction, registration, fusion, texturing and post-processing/Symmetric and skew-symmetric matrices.md",
+    "3D surface reconstruction, registration, fusion, texturing and post-processing/Homography.md",
+    "3D surface reconstruction, registration, fusion, texturing and post-processing/Homogenious coordinates.md",
     "3D surface reconstruction, registration, fusion, texturing and post-processing/Jacobi's method.md",
-    "3D surface reconstruction, registration, fusion, texturing and post-processing/3D surface reconstruction.md"
+    "Linear algebra/Linear algebra.md",
+    "Linear algebra/Householder triangularization.md",
+    "Notes.md",
+    "3D surface reconstruction, registration, fusion, texturing and post-processing/Fundamental matrix F.md",
+    "Scanner math model simulation, optimization and calibration/Single Camera calibration.md",
+    "Scanner math model simulation, optimization and calibration/Scanner calibration.md"
   ]
 }

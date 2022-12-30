@@ -1,4 +1,5 @@
-- Computing eigenvalues from symmetrical matrix
+- Computing eigenvalues from symmetrical matrix. 
+	- **Note:** Jacobi method can be adjusted to be used to find the eigenvalue factorization of an arbitrary matrix
 - Make the Jacobi algorithm step by step by hand. 
 
 ### Statements
@@ -7,11 +8,11 @@
 - If you apply Gaussian elimination, you get 2 matrices, multiplication of which gives the original matrix.
 
 ### Questions
-- [ ] What are "p" and "q" in $P_{pq}$ 
-- [ ] What is orthogonal similiarity transformation?
+- [x] What are "p" and "q" in $P_{pq}$ 
+- [x] What is orthogonal similiarity transformation?
 	-  Well, it has a special property: it doesn't change the eigenvalues and is written in form $\Sigma = Z^{-1} A Z$. And the result is 
 		- [x] Prove that: $det|Z^{-1}AZ-\lambda I| = det|Z^{-1}(A-\lambda I)Z|=det|Z|det|A-\lambda I| det|Z^{-1}|=det|A-\lambda I|$
-		- [ ] If A is symmetric, the eigenvectors are real and orthonormal i. e. $A=A^T=Q \Lambda Q^{-1} = Q \Lambda Q^T$. 
+		- [x] If A is symmetric, the eigenvectors are real and orthonormal i. e. $A=A^T=Q \Lambda Q^{-1} = Q \Lambda Q^T$. 
 - [x] Changing the diagonal values of a matrix, affects only the stretch of its $range<A>$ or the skew + rotation as well?
 	- It's a **rotation**, skew doesn't make sense, since any vector collinear to vector from zero considered the same vector.
 - [x] Why to find the eigenvectors, a matrix should be diagonal (not triangular)?
